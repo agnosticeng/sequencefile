@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/colinmarc/sequencefile"
+	"github.com/agnosticeng/sequencefile"
 )
 
 func ExampleReader() {

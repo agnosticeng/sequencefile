@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/colinmarc/sequencefile"
+	"github.com/agnosticeng/sequencefile"
 )
 
 func ExampleWriter() {
